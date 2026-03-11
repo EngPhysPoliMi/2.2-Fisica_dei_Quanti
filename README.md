@@ -1,6 +1,6 @@
-# x.y - Template
+# 2.2 - Fisica dei Quanti
 
-Repository for "Template".
+Repository for "Fisica dei Quanti".
 
 
 ## Use instructions
